@@ -62,10 +62,6 @@ This Eco-Friendly Lifestyle Tracker App is a mobile application designed to help
    flutter run
    ```
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and create a pull request with your proposed changes.
-
 ## Acknowledgments
 
 - Special thanks to the datasets and resources on Kaggle that have inspired the development of this app.
